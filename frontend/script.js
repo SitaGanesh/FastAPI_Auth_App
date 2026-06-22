@@ -1,7 +1,7 @@
 const API= "https://my-fastapi-auth-backend.onrender.com"
 
 const GOOGLE_CLIENT_ID="993187631083-5v4jrd3nib7cqt216a87hssoe821igd9.apps.googleusercontent.com";
-const GOOGLE_REDIRECT_URL="https://my-fastapi-auth-frontend.onrender.com/frontend/login.html";
+const GOOGLE_REDIRECT_URL="https://my-fastapi-auth-frontend.onrender.com/login.html";
 
 async function register(){
     const data={
